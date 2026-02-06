@@ -7,7 +7,7 @@ Used for building images in Minecraft.
 ## 内部准备：
 需要在**设置**-**通用**中打开**Websocket**
 
-需要关闭**需要加密的Websocket**
+同一级，需要关闭**需要加密的Websocket**
 
 需要作弊和管理员权限
 ## 外部准备
