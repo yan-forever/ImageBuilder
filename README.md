@@ -8,13 +8,13 @@ Used for building images in Minecraft.
 
 ## Internal Preparation
 ## 内部准备
-Enable **Websocket** in **Settings** - **General**.
+Enable **WebSocket** in **Settings** - **General**.
 
-需要在**设置**-**通用**中打开**Websocket**
+需要在**设置**-**通用**中打开**WebSocket**
 
-In the same section, disable **Require Encrypted Websocket**.
+In the same section, disable **Require Encrypted WebSocket**.
 
-同一级，需要关闭**需要加密的Websocket**
+同一级，需要关闭**需要加密的WebSocket**
 
 Cheats and Operator permissions are required.
 
