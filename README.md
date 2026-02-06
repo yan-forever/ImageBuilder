@@ -22,9 +22,9 @@ Cheats and Operator permissions are required.
 
 ## External Preparation
 ## 外部准备
-Open the **.jar** file from releases.
+Open the **.jar** file downloaded from the GitHub **Releases** page.
 
-打开release中的**.jar**文件
+从 GitHub 的 **Releases** 页面下载并打开 **.jar** 文件。
 
 Enter the port.
 
